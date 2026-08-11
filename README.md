@@ -17,6 +17,14 @@ The platform combines:
 
 The overall solution was implemented using a **Bronze–Silver–Gold Medallion Architecture** in Databricks with Unity Catalog and Delta Lake. :contentReference[oaicite:0]{index=0}
 
+## 🏗️ Platform Architecture
+
+![Fashion Customer Intelligence Platform Architecture](fashion-cip-architecture.png)
+
+The platform integrates large-scale H&M transaction behavior with Amazon Fashion review intelligence through a category-level bridge. My contribution focused on **Stage 03 — Aspect-Based Sentiment Intelligence**, which produces category-and-aspect sentiment scores used by the downstream recommendation ensemble.
+
+---
+
 ---
 
 ## 👤 My Contribution
